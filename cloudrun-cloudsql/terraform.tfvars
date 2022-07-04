@@ -1,0 +1,8 @@
+project_id = ""
+name = ""
+location = "us-east1"
+container_image = "gcr.io/google-samples/hello-app:1.0"
+cloudsql_name = "cloudrun-sql"
+cloudsql_region = "us-east1"
+cloudsql_database_version = "MYSQL_5_7" 
+cloudsql_tier = "db-f1-micro"
